@@ -1,0 +1,13 @@
+.nava a{
+  font-weight: 700;
+  font-size: 14px;
+  color: black;
+}
+.navbar-nav{
+  justify-content: space-between;
+  gap: 30px;
+
+}
+.btn{
+  border:2px solid black;
+}

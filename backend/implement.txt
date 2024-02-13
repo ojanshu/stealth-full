@@ -1,0 +1,14 @@
+There are other ways to implement access control, such as using MongoDB's built-in roles or creating custom roles with more granular privileges. You should choose the method that best fits your specific use case and security requirements.
+
+
+# Navigate to the local repository
+cd my-repo
+
+# Stage all of the files in the current directory
+git add .
+
+# Commit the staged files with a message
+git commit -m "Added new feature"
+
+# Push the committed changes to the remote repository
+git push origin main
