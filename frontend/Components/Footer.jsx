@@ -5,7 +5,7 @@ const Footer = () => {
   <footer className="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5   ">
     <div className="col mb-5">
       <a>
- <img src="https://wheelseye.com/fo/images/logo-darkbg.svg" alt="logo" className="logo"/>
+ <img src="https://www.pngfind.com/pngs/b/678-6782955_pokemon-xyz-logo-hd-png-download.png" alt="logo" className="logo" style={{width: '30rem', height: '20rem'}}/>
       </a>
       <p className="text-body-secondary text-white-50">© 2023</p>
     </div>
@@ -55,7 +55,7 @@ const Footer = () => {
 <div className="fbot">
 
   
-    <p className="text-center py-2">© Copyright <span className="wheel" ><a>WheelsEye </a></span> | All rights reserved.</p>
+    <p className="text-center py-2">© Copyright <span className="wheel" ><a>Stealth </a></span> | All rights reserved.</p>
   
 
 </div>

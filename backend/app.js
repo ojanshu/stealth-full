@@ -10,7 +10,7 @@ const errorHandlerMiddleware = require("./middleware/error-handler")
 //to use frontend (which i have not created)
 // app.use(express.static("./public"))
 
-app.use(cors({ origin: "http://localhost:5173"}));
+app.use(cors({origin: "http://localhost:5173"}));
 
 //to parse json data
 app.use(express.json());

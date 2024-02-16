@@ -27,7 +27,7 @@ const Reach = () => {
      
       <div className="col-md-4">
         <div className="h-60 p-5 bg-body-tertiary border rounded-5">
-          <h3 className="text-dark">call us</h3>
+          <h3 className="text-dark">CALL US</h3>
           <a className="text-decoration-none" href="#">+91 6123456765</a>        </div>
       </div>
     </div>

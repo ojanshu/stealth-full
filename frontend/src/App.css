@@ -127,6 +127,7 @@ a {
  .dropdown {
   position: relative;
   display: inline-block;
+  /* color:#1B1B1B */
 }
 
 .dropdown-content {
@@ -288,7 +289,7 @@ a {
   height:15vw;
 }
 .pg2 h2{
-  color:red;
+  color:#1B1B1B;
   font-size: 3vw;
   font-weight: 800;
   
