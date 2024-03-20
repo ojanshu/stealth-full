@@ -29,6 +29,14 @@ const Log = () => {
     .then(data => {
       console.log(data)
       // Handle successful response
+
+      //reset all values after submission of form
+      setName('');
+      setMobileNo('');
+      setProductType('');
+      setQuantity('');
+      setExportLocation('');
+      setDestinationLocation('');
     })
     .catch(error => console.error('Error:', error))
   }
